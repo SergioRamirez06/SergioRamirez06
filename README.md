@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
  About Me
-👨‍💻  I'm handling backend development with Node.js, frontend with React, databases like MongoDB and PostgreSQL, and container tools like Docker./
+👨‍💻 &nbsp;I'm handling backend development with Node.js, frontend with React, databases like MongoDB and PostgreSQL, and container tools like Docker.\
 💡  I like to explore new technologies and develop software solutions and quick hacks./
 🌱  I'm on my way to deepen my knowledge in Nest.js, microservices-based architecture, and Next.js./
 ✍️  In my free time, I'm exploring and learning about graphic design./
