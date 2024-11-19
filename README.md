@@ -2,14 +2,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+ About Me
+👨‍💻  I'm handling backend development with Node.js, frontend with React, databases like MongoDB and PostgreSQL, and container tools like Docker./
+💡  I like to explore new technologies and develop software solutions and quick hacks./
+🌱  I'm on my way to deepen my knowledge in Nest.js, microservices-based architecture, and Next.js./
+✍️  In my free time, I'm exploring and learning about graphic design./
+💬  Feel free to reach out to me for consulting and volunteering./
+✉️  You can shoot me an email at sergio200206mayo@gmail.com! I'll try to respond as soon as I can./
+📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions./
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
