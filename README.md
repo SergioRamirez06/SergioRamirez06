@@ -1,16 +1,17 @@
-<h1 align="center"><b>Hi, I'm SergioR. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy SergioR. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mí
 
-👨‍💻 &nbsp;I'm handling backend development with Node.js, frontend with React, databases like MongoDB and PostgreSQL, and container tools like Docker.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on my way to deepen my knowledge in Nest.js, microservices-based architecture, and Next.js .\
-✍️ &nbsp;In my free time, I'm exploring and learning about graphic design.\ 
-💬 &nbsp;Feel free to reach out to me for consulting and volunteering.\
-✉️ &nbsp;You can shoot me an email at sergio200206mayo@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
+👨‍💻 &nbsp;Me encargo del desarrollo backend con Node.js, frontend con React, bases de datos como MongoDB y PostgreSQL, y herramientas de contenedores como Docker.\
+💡 &nbsp;Me gusta explorar nuevas tecnologías y crear soluciones de software y pequeños desarrollos rápidos.\
+🌱 &nbsp;Estoy profundizando mis conocimientos en Nest.js, arquitectura basada en microservicios y Next.js.\
+✍️ &nbsp;En mi tiempo libre, exploro y aprendo sobre diseño gráfico.\
+💬 &nbsp;No dudes en contactarme para consultorías o voluntariados.\
+✉️ &nbsp;Puedes enviarme un correo a **sergio200206mayo@gmail.com** y trataré de responder lo antes posible.\
+📄 &nbsp;Puedes ver mi currículum para más detalles sobre mí. ¡Estoy abierto a sugerencias y retroalimentación!
+
 
 
 
