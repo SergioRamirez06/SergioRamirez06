@@ -52,3 +52,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+
+### 📊 &nbsp;Estadísticas de GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SergioRamirez06&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioRamirez06&layout=compact&theme=tokyonight" />
+</p>
+
