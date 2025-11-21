@@ -53,6 +53,12 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
+### 🌐 &nbsp;Encuéntrame
+
+[![LinkedIn](https://www.linkedin.com/in/sergio-andres-ram%C3%ADrez-acosta-85849b298/)]()
+[![Portafolio](https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=vercel&logoColor=white)]()
+
+
 ### 📊 &nbsp;Estadísticas de GitHub
 
 <p align="center">
