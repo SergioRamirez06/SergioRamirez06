@@ -55,7 +55,7 @@
 
 ### 🌐 &nbsp;Encuéntrame
 
-[![LinkedIn](https://www.linkedin.com/in/sergio-andres-ram%C3%ADrez-acosta-85849b298/)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio%20Ramírez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-andres-ram%C3%ADrez-acosta-85849b298/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=vercel&logoColor=white)]()
 
 
