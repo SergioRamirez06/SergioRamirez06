@@ -34,6 +34,8 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white)
+
 
 
 
@@ -58,11 +60,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio%20Ramírez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-andres-ram%C3%ADrez-acosta-85849b298/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=vercel&logoColor=white)]()
 
-
-### 📊 &nbsp;Estadísticas de GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SergioRamirez06&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioRamirez06&layout=compact&theme=tokyonight" />
-</p>
 
